@@ -7,7 +7,7 @@ name=time.time()
 name=(str(name))
 
 
-im = ImageGrab.grabclipboard()
+im = ImageGrab.grabclipboard()   # this is the part that grabs the image from the clipboard
 print('do you wish to save all images from the clip board as png files :')
 print('\npress 1+enter for yes')
 print('press enter to continue without saving \n \t\t___',end="\b\b")
