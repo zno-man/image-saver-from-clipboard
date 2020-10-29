@@ -11,7 +11,6 @@ i made this to use it on windows, linux users can do the necessary changes and u
 in case this does not work try restarting your clipboard from your settings menu, i.e just turn it off and then on.
 if that doesn't work just shutdown the pc and turn it on again , (a warm boot might not work).
 
-SIDE NOTE<br>
-i will also add a .exe file if you don't want to go and compile the thing.
+
 
 
