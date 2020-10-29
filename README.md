@@ -1,7 +1,7 @@
 # image-saver-from-clipboard
 
 WHAT IT DOES
-save images from the clip board in just a click, yeah thats pretty much what it does 
+<br>save images from the clip board in just a click, yeah thats pretty much what it does 
 
 WHAT IT USES
 it uses the pillow library in python to grab a single image from the clipboard , note that it must be the selected item in the clipboard.
